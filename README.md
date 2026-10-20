@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jaime Janer 👋
 
-<!--
-**JaimeJanerAcevedo/JaimeJanerAcevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | AI Engineering
 
-Here are some ideas to get you started:
+Software Development Technologist passionate about building software solutions and integrating artificial intelligence into real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in AI-powered applications, software architecture, and leveraging AI tools to build better software.
+
+### Tech Stack
+
+**Languages:** Python, SQL, JavaScript, C#  
+**Data & AI:** Pandas, Scikit-learn, TensorFlow  
+**Databases:** PostgreSQL, SQL Server  
+**Tools:** Git, GitHub
+
+### Featured Projects
+
+- 🩺 [Pneumonia Detection with Deep Learning](https://www.kaggle.com/code/jaimejaner/detecci-n-de-neumon-a-vgg16-jaime-janer)
+- 📊 [Breast Cancer Data Analysis](https://github.com/JaimeJanerAcevedo/breast-cancer-analysis)
+
+### Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/jaime-eduardo-janer-acevedo-731642184/) · [Email](mailto:j.janer292@gmail.com)
